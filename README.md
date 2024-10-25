@@ -41,8 +41,8 @@ Ces instructions vous permettront d'obtenir une copie du projet en cours d'exéc
 Clonez le repository et installez les dépendances :
 
 ```bash
-git clone <url-du-repo>
-cd <nom-du-repo>
+git clone https://github.com/yoricksenpai/good-api-refactoring.git
+cd good-api-refactoring
 npm install
 ```
 
